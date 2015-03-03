@@ -1,0 +1,66 @@
+	
+	
+	body { 
+			background-image: url(backImg.jpg);
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-attachment: fixed;
+
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+
+			background-size: cover;
+		}
+			
+	.dropdown-menu{
+			background-color: #122221;
+			color:#fff; 
+		}
+	.dropdown-toggle:active, .open .dropdown-toggle {
+			background:#122221 !important;
+			color:green !important;
+		}
+	
+	.dropdown-menu li>a{
+			color:white;
+		}
+				
+	#nav_pills li>a{
+			color:black;
+			}
+			
+	#nav_pills li:hover> a{
+			color: green;
+			background-color:black;
+			}
+			
+	#nav_pills  li.active > a {
+			background-color:black;
+			color: green;
+			}
+
+	#userHover  a:hover{
+			background-color:#122221;
+			color: green;
+			}
+			
+	#adminHover a:hover{
+			background-color:#122221;
+			color: green;
+			}
+
+	#gost a{
+			color: green;
+			}
+			
+	#navigacija a{
+			color: white;
+			}
+			
+	#navigacija a:hover{
+			color: green;
+			}
+			
+			
+			
